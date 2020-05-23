@@ -134,10 +134,12 @@ body {
 
 h1 {
   color: #555;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 800;
   font-family: "Gotham A", "Gotham B", "serif";
   text-transform: uppercase;
+  position: relative;
+  top:0.5em;
 }
 
 h2 {
@@ -161,6 +163,8 @@ p {
     font-size: 1.25em;
     font-weight: 400;
     margin: 0 0 0.3em;
+    position: relative;
+    top:0.25em;
   }
 
 }
