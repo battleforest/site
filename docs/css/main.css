@@ -139,17 +139,24 @@ h1 {
   font-family: "Gotham A", "Gotham B", "serif";
   text-transform: uppercase;
   position: relative;
-  top:0.5em;
+  top:1.75em;
+  margin-bottom: 1.75em;
 }
 
 h2 {
   font-family: "Gotham A", "Gotham B", "serif";
   text-transform: capitalize;
+  margin-bottom: 0.5em;
 }
 
 p {
   margin: 0 auto;
   width: 80vw;
+}
+
+body {
+  position: relative;
+  top: 1.2em;
 }
 
 @media only screen and (max-width: 280px) {
