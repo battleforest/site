@@ -138,8 +138,8 @@ h1 {
   font-weight: 800;
   font-family: "Gotham A", "Gotham B", "serif";
   text-transform: uppercase;
-  position: relative;
-  top:1.75em;
+  #position: relative;
+  #top:1.75em;
   margin-bottom: 1.75em;
 }
 
@@ -155,8 +155,8 @@ p {
 }
 
 body {
-  position: relative;
-  top: 1.2em;
+  #position: relative;
+  #top: 1.2em;
 }
 
 @media only screen and (max-width: 280px) {
@@ -170,8 +170,8 @@ body {
     font-size: 1.25em;
     font-weight: 400;
     margin: 0 0 0.3em;
-    position: relative;
-    top:0.25em;
+    #position: relative;
+    #top:0.25em;
   }
 
 }
